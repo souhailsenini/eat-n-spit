@@ -50,6 +50,7 @@ function handleSelection(friend){
      ? {...friend , balance: friend.balance + value}
      : friend
     ))
+   setSelectedFriend(null);
  }
 
 
