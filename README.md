@@ -1,6 +1,7 @@
 # Eat and Split React Application
 
-Welcome to the Eat and Split React application! This intuitive app allows you to manage shared expenses with friends in a hassle-free way. Whether you're dining out, ordering in, or splitting any other bill, this app has got you covered.
+Welcome to the Eat and Split React application! This intuitive app allows you to manage shared expenses with friends in a hassle-free way. Whether you're dining out, ordering in, or splitting any other bill.
+You can check it here : https://eat-n-split-mu-seven.vercel.app/
 
 ## Features
 - **Friend Management**: Easily add friends to your list, complete with their names, profile images, and current balances.
